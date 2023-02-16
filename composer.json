@@ -1,0 +1,16 @@
+{
+    "name": "caocan/test",
+    "description": "ceshi",
+    "license": "1.0.0",
+    "autoload": {
+        "psr-4": {
+            "Caocan\\Test\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "曹灿"
+        }
+    ],
+    "require": {}
+}
